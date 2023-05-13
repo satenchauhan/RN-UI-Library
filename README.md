@@ -1,1 +1,1 @@
-# This is React native ui library
+# This is React Native UI library
